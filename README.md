@@ -78,7 +78,7 @@ Python (Pandas) was used for:
 
 ## Dashboard Preview
 
-<img width="1309" height="735" alt="image" src="https://github.com/user-attachments/assets/82d4f0c3-64c0-400b-b4ff-69ad99d4a1bf"/>
+<img width="1419" height="795" alt="image" src="https://github.com/user-attachments/assets/b2fcac75-adf6-43f3-be7c-ac243b615ba4" />
 
 ---
 
